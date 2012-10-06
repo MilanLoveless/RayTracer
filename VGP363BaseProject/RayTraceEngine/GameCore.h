@@ -21,6 +21,7 @@
 #include "CORE\3D\CORE.Drawing.Primitives.h"
 #include "CORE\3D\CORE.Matrix.h"
 #include "CORE\3D\CORE.Quaternion.h"
+#include "3D_OBJECTS\Camera.h"
 
 using namespace System;
 

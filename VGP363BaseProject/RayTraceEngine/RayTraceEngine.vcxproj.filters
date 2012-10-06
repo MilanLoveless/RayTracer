@@ -57,6 +57,9 @@
     <ClCompile Include="GameCore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3D_OBJECTS\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CORE\3D\CORE.Quaternion.h">
@@ -96,6 +99,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="GameCore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3D_OBJECTS\Camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

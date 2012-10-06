@@ -76,6 +76,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="3D_OBJECTS\Camera.cpp" />
     <ClCompile Include="AssemblyInfo.cpp" />
     <ClCompile Include="CORE\3D\CORE.Drawing.Primitives.cpp" />
     <ClCompile Include="CORE\3D\CORE.Matrix.cpp" />
@@ -92,6 +93,7 @@
     <ClCompile Include="GameCore.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="3D_OBJECTS\Camera.h" />
     <ClInclude Include="CORE\3D\CORE.Drawing.Primitives.h" />
     <ClInclude Include="CORE\3D\CORE.Matrix.h" />
     <ClInclude Include="CORE\3D\CORE.Quaternion.h" />
